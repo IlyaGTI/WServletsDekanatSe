@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Dekanat:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Dekanat</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Dekanat-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Dekanat:war exploded" />
+    </root>
+  </artifact>
+</component>

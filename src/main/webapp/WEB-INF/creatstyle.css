@@ -1,0 +1,36 @@
+#headerse {
+  position: absolute;
+  left: 1px;
+  top: 1px;
+  width: 100%;
+  background:#24428c;
+}
+
+body
+{
+background-color:#e7e6f5;
+}
+
+h3 {
+position: relative;
+top: 100px;
+color:#24428c;
+text-align:center;
+font-family:"Times New Roman";
+font-size:50px;
+}
+
+form {
+    position: relative;
+    top: 80px;
+    left: 600px;
+    font-size:25px;
+    font-family:"Times New Roman";
+}
+i.save {
+    color: #fff;
+      background:#24428c;
+      text-decoration: none;
+      outline: none;
+      padding: .7em 1.5em;
+}

@@ -1,0 +1,28 @@
+body
+{
+background-color:#e7e6f5;
+}
+
+#headerse {
+  position: absolute;
+  left: 1px;
+  top: 1px;
+  width: 100%;
+  background:#24428c;
+}
+h2
+{
+position: relative;
+top: 100px;
+color:#24428c;
+text-align:center;
+font-family:"Times New Roman";
+font-size:50px;
+}
+table{
+    
+    position: absolute;
+        top : 250px;
+        left: 550px;
+}
+
